@@ -1,5 +1,5 @@
 this my portfolio website 
 
-url : 
+url : https://hsoni.netlify.app/
 
-screenshots :
+
