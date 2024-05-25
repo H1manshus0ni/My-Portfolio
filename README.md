@@ -1,7 +1,5 @@
-to run this on your pc use 
+this my portfolio website 
 
-# npm i
+url : 
 
-
-  
-# npm run dev 
+screenshots :
